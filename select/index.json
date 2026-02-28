@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "咖啡",
+  "base_artist": "張學友",
+  "createdAt": "2026-02-28T15:03:26.821492Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "咖啡",
+      "artist": "Jacky Cheung",
+      "has_synced": true,
+      "path": "select/01_咖啡_Jacky_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "咖啡",
+      "artist": "张学友",
+      "has_synced": true,
+      "path": "select/02_咖啡_张学友.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "咖啡+交換餘生",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/03_咖啡+交換餘生_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "咖啡",
+      "artist": "張學友",
+      "has_synced": true,
+      "path": "select/04_咖啡_張學友.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "咖啡+交換餘生",
+      "artist": "JJ Lin",
+      "has_synced": true,
+      "path": "select/05_咖啡+交換餘生_JJ_Lin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "咖啡 (LH x KW)",
+      "artist": "Lu Han",
+      "has_synced": true,
+      "path": "select/06_咖啡_(LH_x_KW)_Lu_Han.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "咖啡+交換餘生",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/07_咖啡+交換餘生_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "北京!咖啡!",
+      "artist": "Leah Dou",
+      "has_synced": true,
+      "path": "select/08_北京!咖啡!_Leah_Dou.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "咖啡",
+      "artist": "张学友",
+      "has_synced": true,
+      "path": "select/09_咖啡_张学友.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "咖啡 鴛鴦 奶茶",
+      "artist": "Cath Wong",
+      "has_synced": true,
+      "path": "select/10_咖啡_鴛鴦_奶茶_Cath_Wong.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "咖啡",
+      "artist": "张学友",
+      "has_synced": true,
+      "path": "select/11_咖啡_张学友.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "北京！咖啡！",
+      "artist": "窦靖童",
+      "has_synced": true,
+      "path": "select/12_北京!咖啡!_窦靖童.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "咖啡+交換餘生",
+      "artist": "林俊杰",
+      "has_synced": true,
+      "path": "select/13_咖啡+交換餘生_林俊杰.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "咖啡",
+      "artist": "范曉萱",
+      "has_synced": false,
+      "path": "select/14_咖啡_范曉萱.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "咖啡",
+      "artist": "張學友",
+      "has_synced": false,
+      "path": "select/pl_01_咖啡_張學友.txt"
+    }
+  ]
+}
